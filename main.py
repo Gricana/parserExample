@@ -63,6 +63,7 @@ class CitilinkParser:
                 print(filename + ' загружено')
         print('Загрузка изображений завершилась.')
 
+
 if __name__ == '__main__':
     parser = CitilinkParser()
     parser.parse()
